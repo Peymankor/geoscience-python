@@ -39,10 +39,14 @@ Welcome to Geoscience with Python - the easy way!
    notebooks/select_and_query.ipynb
    notebooks/group_by_aggregate_assign.ipynb
    notebooks/melt_and_pivot_table.ipynb
+   notebooks/method_chaining_pandas.ipynb
+   notebooks/split_data_into_files_and_viceverse.ipynb
 
 .. toctree::
    :maxdepth: 3
-   :caption: Exploratory Data Analysis (EDA) case studies - IN PROGRESS
+   :caption: Exploratory Data Analysis (EDA) case studies - IN PROGRESS:
+
+   notebooks/annual_hydrocarbon_production_NCS.ipynb
 
 .. toctree::
    :maxdepth: 3
@@ -56,10 +60,3 @@ Welcome to Geoscience with Python - the easy way!
    :maxdepth: 3
    :caption: Spatial Data - IN PROGRESS
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
